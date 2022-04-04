@@ -7,13 +7,13 @@ const Body = () => {
   return (
     <div className=" ml-[176px] pt-[39px]">
       <div className="flex flex-row ">
-       <div>
-         <SearchBar />
-       </div>
         <div>
-         <Actions />
-         </div>
-              </div>
+          <SearchBar />
+        </div>
+        <div>
+          <Actions />
+        </div>
+      </div>
     </div>
   );
 };
