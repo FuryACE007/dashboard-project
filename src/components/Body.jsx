@@ -15,10 +15,9 @@ const Body = () => {
         </div>
       </div>
       <div className="flex flex-row ">
-        <div className=" w-[909px] h-[313px] mt-[54px] bg-white rounded-3xl" ></div>
+        <div className=" w-[909px] h-[313px] mt-[54px] bg-white rounded-3xl"></div>
         {/* <div classname=" bg-white"></div> */}
       </div>
-        
     </div>
   );
 };
